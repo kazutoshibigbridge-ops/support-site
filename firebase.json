@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "glp-1-nexatrack",
+    "site": "glp-1-Log",
     "public": "public",
     "ignore": [
       "firebase.json",
